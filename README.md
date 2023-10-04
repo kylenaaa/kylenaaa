@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+### ![Kylena, 21](https://github.com/kylenaaa/kylenaaa/assets/109061484/d5c89c76-98fe-4df8-9198-77d1c2ae1442)
+Hi there 👋
 
 <!--
 **kylenaaa/kylenaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
