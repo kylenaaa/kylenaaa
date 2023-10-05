@@ -1,6 +1,4 @@
-
-
-### ![Kylena, 21](https://github.com/kylenaaa/kylenaaa/assets/109061484/2a548389-37de-42d7-b954-0700a1dd1ece)
+![Kylena, 21](https://github.com/kylenaaa/kylenaaa/assets/109061484/2a548389-37de-42d7-b954-0700a1dd1ece)
 **<p align="center">Hi there 👋, I'm Kylena!</p>**
 **<p align="center">The natural desire to actively learn and develop keeps me living.</p>**
 🌱 **Take a look at some projects I've been working on:**
