@@ -3,13 +3,13 @@
 **<p align="center">The natural desire to actively learn and develop keeps me living.</p>**
 🌱 **Take a look at some projects I've been working on:**
 
-   Excel Portfolio [Here](https://github.com/kylenaaa/ExcelPortfolio)
+Excel Portfolio [Here](https://github.com/kylenaaa/ExcelPortfolio)
 
-   SQL Portfolio [Here](https://github.com/kylenaaa/SQL-Portfolio)
+SQL Portfolio [Here](https://github.com/kylenaaa/SQL-Portfolio)
 
-   Tableau/Power BI Portfolio [Here](https://github.com/kylenaaa/Tableau-PowerBI-Portfolio)
+Tableau/Power BI Portfolio [Here](https://github.com/kylenaaa/Tableau-PowerBI-Portfolio)
 
-   Python Portfolio: [Here](https://github.com/kylenaaa/Python-Portfolio)
+Python Portfolio [Here](https://github.com/kylenaaa/Python-Portfolio)
 
 _I am continuously learning and I aim to further my skillset 😄._
 
