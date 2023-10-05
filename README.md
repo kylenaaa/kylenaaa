@@ -1,9 +1,9 @@
 
 
-### ![Kylena, 21](https://github.com/kylenaaa/kylenaaa/assets/109061484/d5c89c76-98fe-4df8-9198-77d1c2ae1442)
-# <p align="center">Hi there 👋, I'm Kylena!</p>
-### <p align="center">The natural desire to actively learn and develop keeps me living.</p>
-#### 🌱 Take a look at some projects I've been working on:
+### ![Kylena, 21](https://github.com/kylenaaa/kylenaaa/assets/109061484/2a548389-37de-42d7-b954-0700a1dd1ece)
+<p align="center">**Hi there 👋, I'm Kylena!**</p>
+<p align="center">**The natural desire to actively learn and develop keeps me living.**</p>
+**🌱 Take a look at some projects I've been working on:**
 
        - Excel Portfolio:
 
