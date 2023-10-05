@@ -4,11 +4,11 @@
 🌱 **Take a look at some projects I've been working on:**
 
 
-_[Excel Portfolio](https://github.com/kylenaaa/ExcelPortfolio)_
-
 _[SQL Portfolio](https://github.com/kylenaaa/SQL-Portfolio)_
 
 _[Tableau/Power BI Portfolio](https://github.com/kylenaaa/Tableau-PowerBI-Portfolio)_
+
+_[Excel Portfolio](https://github.com/kylenaaa/ExcelPortfolio)_
 
 _[Python Portfolio](https://github.com/kylenaaa/Python-Portfolio)_
 
