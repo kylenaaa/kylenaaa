@@ -3,6 +3,7 @@
 **<p align="center">The natural desire to actively learn and develop keeps me living.</p>**
 🌱 **Take a look at some projects I've been working on:**
 
+
 _[Excel Portfolio](https://github.com/kylenaaa/ExcelPortfolio)_
 
 _[SQL Portfolio](https://github.com/kylenaaa/SQL-Portfolio)_
@@ -11,7 +12,8 @@ _[Tableau/Power BI Portfolio](https://github.com/kylenaaa/Tableau-PowerBI-Portfo
 
 _[Python Portfolio](https://github.com/kylenaaa/Python-Portfolio)_
 
-I am continuously learning and I aim to further my skillset 😄.
+
+**I am continuously learning and I aim to further my skillset 😄.**
 
 <!--
 **kylenaaa/kylenaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
